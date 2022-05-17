@@ -9,6 +9,7 @@ The goal of this project is to perform a empirical and theoretical analysis of t
 
 * [Python](https://www.python.org/)
 * [NumPy](https://numpy.org/)
+* [SciPy](https://scipy.org/)
 
 ### Instructions:
 
