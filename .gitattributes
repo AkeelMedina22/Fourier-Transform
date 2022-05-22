@@ -1,4 +1,0 @@
-*.ipynb linguist-detectable=true
-*.tex linguist-detectable=false
-*.pdf linguist-detectable=false
-*.gitattributes linguist-language=gitattributes
