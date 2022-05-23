@@ -5,6 +5,10 @@ This is the final project from CS 412 Algorithms: Design and Analysis offered at
 
 The goal of this project is to perform a empirical and theoretical analysis of the FFT and the naive DFT, accompanied by the application of FFT in signal processing and applying our implementation in this context. 
 
+### Demo
+
+<img src="./report/images/fftaudio.png?raw=true" alt="FFT Usage" width="600"/>
+
 ### Built With
 
 * [Python](https://www.python.org/)
